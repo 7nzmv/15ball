@@ -1,3 +1,34 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.all{
+    background-image: url("/images/Banner Image.png");
+    height: 633px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.america{
+    background-image: url("/images/Rectangle 9.png");
+    height: 426px;
+    background-repeat: no-repeat;
+    width: 276px;
+}
+.spain{
+    background-image: url("/images/Rectangle 10.png");
+    height: 426px;
+    background-repeat: no-repeat;
+    width: 276px;
+}
+.london{
+    background-image: url("/images/Rectangle 11.png");
+    height: 426px;
+    background-repeat: no-repeat;
+    width: 276px;
+}
+.france{
+    background-image: url("/images/Rectangle 12.png");
+    height: 426px;
+    background-repeat: no-repeat;
+    width: 276px;
+}
